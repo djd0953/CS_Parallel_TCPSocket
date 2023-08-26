@@ -1,0 +1,7 @@
+C:\Users\skyzz\Desktop\CS_PARALLER_TCPSOCKET\bin\Debug\CS_PARALLER_TCPSOCKET.exe.config
+C:\Users\skyzz\Desktop\CS_PARALLER_TCPSOCKET\bin\Debug\CS_PARALLER_TCPSOCKET.exe
+C:\Users\skyzz\Desktop\CS_PARALLER_TCPSOCKET\bin\Debug\CS_PARALLER_TCPSOCKET.pdb
+C:\Users\skyzz\Desktop\CS_PARALLER_TCPSOCKET\obj\Debug\CS_PARALLEL_TCPSOCKET.csproj.AssemblyReference.cache
+C:\Users\skyzz\Desktop\CS_PARALLER_TCPSOCKET\obj\Debug\CS_PARALLEL_TCPSOCKET.csproj.CoreCompileInputs.cache
+C:\Users\skyzz\Desktop\CS_PARALLER_TCPSOCKET\obj\Debug\CS_PARALLER_TCPSOCKET.exe
+C:\Users\skyzz\Desktop\CS_PARALLER_TCPSOCKET\obj\Debug\CS_PARALLER_TCPSOCKET.pdb

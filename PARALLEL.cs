@@ -5,9 +5,9 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS_PARALLER_TCPSOCKET
+namespace CS_PARALLEL_TCPSOCKET
 {
-    internal class PARALLER
+    internal class PARALLEL
     {
         static void Main(string[] args)
         {

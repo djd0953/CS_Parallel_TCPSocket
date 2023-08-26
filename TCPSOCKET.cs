@@ -6,7 +6,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS_PARALLER_TCPSOCKET
+namespace CS_PARALLEL_TCPSOCKET
 {
     public enum TCP_CLIENT_STATUS { DISCONNECTED = 0, CONNECTING = 1, CONNECTED = 2 }
 

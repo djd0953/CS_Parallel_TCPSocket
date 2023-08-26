@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HI_VO.cs" />
-    <Compile Include="PARALLER.cs" />
+    <Compile Include="PARALLEL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SEND_HI.cs" />
     <Compile Include="SEND_LIST.cs" />

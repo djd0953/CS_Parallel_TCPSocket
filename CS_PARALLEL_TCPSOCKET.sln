@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_PARALLER_TCPSOCKET", "CS_PARALLER_TCPSOCKET.csproj", "{1EE0086D-7ECC-45F9-99CA-86207E502142}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_PARALLEL_TCPSOCKET", "CS_PARALLEL_TCPSOCKET.csproj", "{1EE0086D-7ECC-45F9-99CA-86207E502142}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
